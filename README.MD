@@ -22,14 +22,14 @@ Ele é ideal para criar coleções de **wallpapers verticais** ou selecionar aut
 
 ## 📂 Estrutura esperada do projeto
 
-├── fotos/ # Pasta de origem com imagens
-├── wallpapers/ # Pasta destino para as melhores imagens
+.
+├── fotos/                       # Pasta de origem com imagens
+├── wallpapers/                  # Pasta destino para as melhores imagens
 ├── models/
-│ └── sac+logos+ava1-l14-linearMSE.pth
-├── mlp.py # Definição da MLP
-├── curadoria.py # Script principal
-└── requirements.txt # Dependências (opcional)
-
+│   └── sac+logos+ava1-l14-linearMSE.pth
+├── mlp.py                       # Definição da MLP
+├── curadoria.py                 # Script principal
+└── requirements.txt             # Dependências (opcional)
 
 ---
 
