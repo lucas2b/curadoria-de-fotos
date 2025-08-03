@@ -1,0 +1,8 @@
+torch
+torchvision
+transformers
+tqdm
+pillow
+numpy
+huggingface_hub
+pillow-heif
