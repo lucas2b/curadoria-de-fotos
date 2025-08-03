@@ -21,7 +21,7 @@ Ele é ideal para criar coleções de **wallpapers verticais** ou selecionar aut
 ---
 
 ## 📂 Estrutura esperada do projeto
-
+```
 .
 ├── fotos/                       # Pasta de origem com imagens
 ├── wallpapers/                  # Pasta destino para as melhores imagens
@@ -30,7 +30,7 @@ Ele é ideal para criar coleções de **wallpapers verticais** ou selecionar aut
 ├── mlp.py                       # Definição da MLP
 ├── curadoria.py                 # Script principal
 └── requirements.txt             # Dependências (opcional)
-
+```
 ---
 
 ## 🛠️ Instalação
